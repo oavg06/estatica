@@ -1,2 +1,0 @@
-source activate Taller 4 Estática.ipynb-environment
-conda env export --no-builds -f environment.yml
