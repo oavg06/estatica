@@ -3,4 +3,4 @@ channels:
 dependencies:
   - python
   - numpy
-  - sympy1.8
+  - sympy
