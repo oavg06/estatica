@@ -1,1 +1,2 @@
-conda env export -f environment.yml
+source activate example-environment
+conda env export --no-builds -f environment.yml
